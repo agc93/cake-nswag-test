@@ -1,0 +1,14 @@
+#addin nuget:?package=Newtonsoft.Json
+#addin nuget:?package=NSwag.Annotations
+#addin nuget:?package=NSwag.CodeGeneration
+#addin nuget:?package=NSwag.CodeGeneration.CSharp
+#addin nuget:?package=NSwag.CodeGeneration.TypeScript
+#addin nuget:?package=NSwag.Core
+#addin nuget:?package=NConsole
+#addin nuget:?package=NSwag.Commands
+#addin nuget:?package=NSwag.SwaggerGeneration
+#addin nuget:?package=NSwag.SwaggerGeneration.WebApi
+#addin nuget:?package=NJsonSchema
+#addin nuget:?package=NJsonSchema.CodeGeneration
+#addin nuget:?package=NJsonSchema.CodeGeneration.CSharp
+#addin nuget:?package=NJsonSchema.CodeGeneration.TypeScript
